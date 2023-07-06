@@ -3,7 +3,7 @@ function Page() {
     <div className="flex items-center justify-center h-screen rounded-[32px] drop-shadow-2xl">
       <div className="relative max-w-screen-lg bg-gray-200 rounded-lg w-128 h-96">
         <div className=" px-4 float-left w-1/2 h-full rounded-lg bg-gradient-to-b from-light-slate-blue to-light-royal-blue font-hanken">
-          <h1 className="pt-10 text-2xl font-bold text-light-lavender mb-4">Your Result</h1>
+          <h1 className="pt-10 text-2xl font-bold text-light-lavender mb-4">Your Results</h1>
           <div className="flex items-center justify-center w-32 h-32 rounded-full bg-gradient-to-b from-violet-blue to-persian-blue mx-auto mt-auto">
             <div className="flex flex-col items-center">
               <p className="text-white text-5xl font-bold">76</p>
